@@ -78,7 +78,7 @@ const Navbar = () => {
 
               <div className={classOne} id="navbarSupportedContent">
                 <ul className="navbar-nav">
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <Link
                       href="/"
                       className={`nav-link ${pathname == "/" && "active"}`}
@@ -336,9 +336,9 @@ const Navbar = () => {
                         </Link>
                       </li>
                     </ul>
-                  </li>
+                  </li> */}
 
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <Link href="#" className="nav-link">
                       Blog <i className="fas fa-chevron-down"></i>
                     </Link>
@@ -364,8 +364,8 @@ const Navbar = () => {
                         </Link>
                       </li>
                     </ul>
-                  </li>
-
+                  </li> */}
+{/* 
                   <li className="nav-item">
                     <Link
                       href="/pricing"
@@ -375,7 +375,7 @@ const Navbar = () => {
                     >
                       Pricing
                     </Link>
-                  </li>
+                  </li> */}
 
                   <li className="nav-item">
                     <Link
@@ -391,16 +391,16 @@ const Navbar = () => {
               </div>
 
               <div className="others-options">
-                <Link href="/cart" className="cart-btn">
+                {/* <Link href="/cart" className="cart-btn">
                   <i className="flaticon-commerce-and-shopping"></i>
-                </Link>
+                </Link> */}
 
-                <div className="option-item">
+                {/* <div className="option-item">
                   <i
                     className="search-btn fas fa-search"
                     onClick={handleToggleSearchModal}
                   ></i>
-                </div>
+                </div> */}
 
                 <Link href="#" className="btn btn-primary">
                   Schedule a Demo

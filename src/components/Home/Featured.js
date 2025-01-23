@@ -18,13 +18,11 @@ const Featured = () => {
 
                   <h3>
                     <Link href="/services/details">
-                      Robotic Process Automation
+                    Laser processing optics
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore. Ut enim ad minim
-                    veniam.
+                  High quality micro processing optical solution provider for TGV(Through Glass Via) manufacturer
                   </p>
                 </div>
               </div>
@@ -36,12 +34,11 @@ const Featured = () => {
                   </div>
 
                   <h3>
-                    <Link href="/services/details">Cognitive Automation</Link>
+                    <Link href="/services/details">Semiconductor inspection optics
+                    </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore. Ut enim ad minim
-                    veniam.
+                  High quality vision inspection solution provider for TGV(Through Glass Via) and HBM(High Bandwidth Memory)
                   </p>
                 </div>
               </div>
@@ -53,12 +50,11 @@ const Featured = () => {
                   </div>
 
                   <h3>
-                    <Link href="/services/details">Cognitive Engagement</Link>
+                    <Link href="/services/details">Quantum imaging
+                    </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore. Ut enim ad minim
-                    veniam.
+                  Research on the Quantum qualification metrology for HBM(High Bandwidth Memory)
                   </p>
                 </div>
               </div>

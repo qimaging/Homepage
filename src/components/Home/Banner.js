@@ -49,12 +49,12 @@ const Banner = () => {
                   data-aos-delay="300"
                   data-aos-duration="1200"
                 >
-                  <Link href="/contact" className="btn btn-primary">
+                  {/* <Link href="/contact" className="btn btn-primary">
                     Schedule a Demo
                   </Link>
                   <Link href="/contact" className="optional-btn">
                     Get Started Free
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>
